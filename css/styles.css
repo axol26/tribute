@@ -1,0 +1,57 @@
+body{
+  background-color:#fffbc8;
+  font-family:verdana;
+}
+
+main{
+  background-color:#fff59e;
+  margin:15px 0 10px 0;
+  border-radius:6px;
+  padding:1px 0 1px 0;
+}
+
+
+img{
+  width:95%;
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+h1, .haha, figcaption {
+  text-align:center;
+}
+
+figcaption{
+  margin-top:5px;
+  font-size:13px;
+}
+
+.cato{
+  border-radius:5px;
+  background-color:#fffee9;
+  padding: 10px;
+  margin:10px;
+}
+
+.listt{
+  padding: 0 10% 0 13%;
+  text-align:justify;
+  font-size:13px;
+}
+
+.listt li{
+  margin:0 0 5px 0;
+}
+
+.info{
+  padding: 0 10% 0 10%;
+  text-align:justify; 
+  font-size:13px; 
+}
+
+.lastna{
+  font-size:13px;
+}
